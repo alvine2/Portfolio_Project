@@ -70,7 +70,7 @@ Specializations:
 
 ## Feedback
 
-If you have any feedback, please reach out to me at iamshiv20032003@gmail.com
+If you have any feedback, please reach out to me at alvinekinyera@gmail.com
 
 
 ## Authors
