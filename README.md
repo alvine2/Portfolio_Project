@@ -75,9 +75,8 @@ If you have any feedback, please reach out to me at iamshiv20032003@gmail.com
 
 ## Authors
 
-- This project is made using tutorial of [Javascript Mastery](https://www.youtube.com/watch?v=_oO4Qi5aVZs&t=57s)
 
-- [@Shivraj Gurjar](https://github.com/iamshiv007)
+- [@alvine kinyera](https://github.com/alvine2)
 
 # Getting Started with Create React App
 
