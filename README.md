@@ -24,7 +24,7 @@ Javascript, HTML, CSS, React.JS, and TailwindCSS.
 2. Navigate to the project directory
 
 ```bash
-  cd React-Admin-DashBoard
+  cd Portfolio_Project
 ```
 3. Install the necessary dependencies
 ```bash
