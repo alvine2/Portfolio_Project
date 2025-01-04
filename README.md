@@ -2,7 +2,7 @@
 
 React Admin Dashboard is a stunning web application that has a beautiful user interface and has been built using advanced JavaScript concepts, React, and Tailwind CSS. This dashboard provides a comprehensive and intuitive user experience, allowing users to easily manage and track their data. React is a powerful JavaScript library that enables developers to build efficient and dynamic user interfaces, while Tailwind CSS provides a collection of pre-defined classes that make it easy to style and customize UI elements. The combination of these two technologies, along with advanced JavaScript concepts, makes for a highly responsive and engaging user experience. With React Admin Dashboard, users can stay on top of their data with ease and enjoy a visually pleasing interface.
 
-This Project is hosted in Vercel : [Todoo App alvine kinyera](https://portfolio-project-ajkx.vercel.app/)
+
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
