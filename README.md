@@ -2,21 +2,47 @@
 
 React Admin Dashboard is a stunning web application that has a beautiful user interface and has been built using advanced JavaScript concepts, React, and Tailwind CSS. This dashboard provides a comprehensive and intuitive user experience, allowing users to easily manage and track their data. React is a powerful JavaScript library that enables developers to build efficient and dynamic user interfaces, while Tailwind CSS provides a collection of pre-defined classes that make it easy to style and customize UI elements. The combination of these two technologies, along with advanced JavaScript concepts, makes for a highly responsive and engaging user experience. With React Admin Dashboard, users can stay on top of their data with ease and enjoy a visually pleasing interface.
 
-#Acknowledgment: Inspired by JavaScript Mastery
+## Table of Contents
+- [Acknowledgment](#acknowledgment)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Features](#features)
+- [Skills](#skills)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
 
-# Getting Started
+## Acknowledgment
+Inspired by JavaScript Mastery
+
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+### Prerequisites
 Before you start, make sure you have the following software installed on your computer:
+- Node.js
+- npm (Node Package Manager)
+- MongoDB
 
-Node.js
-npm (Node Package Manager)
-
+## Project Structure
+```
+React-Admin-Dashboard/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.js
+├── public/
+├── backend/
+│   └── server.js
+├── package.json
+└── README.md
+```
 
 ## 🛠 Skills
 Javascript, HTML, CSS, React.JS, and TailwindCSS.
-
 
 ## How to use this Repository?
 
@@ -83,6 +109,8 @@ React-Admin-Dashboard/
 │   ├── assets/
 │   └── App.js
 ├── public/
+├── backend/
+│   └── server.js
 ├── package.json
 └── README.md
 ```
