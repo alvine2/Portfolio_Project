@@ -124,6 +124,14 @@ React-Admin-Dashboard/
 
 ---
 
+## Screenshots
+
+Here is a screenshot of the dashboard:
+
+![Dashboard Screenshot](src/data/image.png)
+
+---
+
 ## 🤝 **Contributing**  
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
